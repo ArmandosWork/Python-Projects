@@ -9,7 +9,6 @@ def email_alert(subject, body, to):
     msg['subject'] = subject
     msg['to'] = to
 
-
     user = "youremail@gmail.com"
     msg['from'] = user
     password = "xxxx xxxx xxxx xxxx" #Password or App Pass.
