@@ -25,4 +25,4 @@ if __name__ == '__main__': #This tests to see if this code is run on this progra
 
     email_alert("Hello, there!", "This is your PY Alert.", "xxxxxxxxxx@goodemail.com")
     #For emails, use any good email address.
-    #For Text messages, use :numberXXX@tmomail.net (This example would be for a T-Mobile phone). Do a Google search for your given carrier.
+    #For Text messages, use: numberXXX@tmomail.net (This example would be for a T-Mobile phone). Do a Google search for your given carrier.
